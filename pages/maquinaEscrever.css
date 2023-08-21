@@ -1,0 +1,7 @@
+.maquina-escrever {
+    font-family: monospace;
+    border-tight: 4px solid;
+    width: 72ch;
+    white-space: nowrap;
+    overflow: hidden;
+}
